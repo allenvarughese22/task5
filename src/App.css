@@ -1,7 +1,9 @@
 /* App.css */
 
 /* Reset some default styles */
-body, h1, p {
+body,
+h1,
+p {
   margin: 0;
   padding: 0;
 }
@@ -53,7 +55,8 @@ time {
 }
 
 /* Styling for main content sections */
-.intro, .history {
+.intro,
+.history {
   margin-top: 20px;
 }
 
@@ -71,4 +74,5 @@ p {
 
 /* Random colors for various elements */
 header {
-  background-color: #ffeb3b; /* Yellow background for h
+  background-color: #ffeb3b;
+}
